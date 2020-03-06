@@ -32,7 +32,7 @@ class MLP(tf.keras.Model):
         output = tf.nn.softmax(x)
         return output
 
-num_epochs = 160
+num_epochs = 16
 batch_size = 64
 learning_rate = 0.01
 model = MLP()
