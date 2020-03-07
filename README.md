@@ -1,6 +1,7 @@
 # DNN
 
-运行环境为tensorflow2.0 + python3.7
+The programming environment is tensorflow2.0 + python3.7.
 
-MLP.py and MLP-3.py 均可以正常运行
-MLP-4.py 需要使用GPU
+"mnist on MLP.py" is the original py-file of "MLP-3.py".
+
+I plot the "accuracy" and "loss" images in "plot_mnist on MLP.py". This py-file is programmed based on "mnist on MLP.py".
