@@ -11,5 +11,9 @@ I plot the "accuracy" and "loss" images in "plot_mnist on MLP.py". This py-file 
 
 I upload 3 py-files and 2 png-files.
 
-## 1."opt_loop.py" ## 2. "bs_loop.py" ## 3. "opt+bs_loop.py"
-## 1."Train-Test Accuracy (3-opt,3-bs, 1-lr).png" ## 2. 'Train-Test Loss (3-opt,3-bs, 1-lr).png'
+py-1 "opt_loop.py"  
+py-2 "bs_loop.py" 
+py-3 "opt+bs_loop.py"
+
+png-1 "Train-Test Accuracy (3-opt,3-bs, 1-lr).png" 
+png-2 'Train-Test Loss (3-opt,3-bs, 1-lr).png'
