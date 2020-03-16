@@ -1,11 +1,10 @@
 # DNN
 
-The programming environment is tensorflow2.0 + python3.7.  
+**The programming environment is tensorflow2.0 + python3.7**
 - mnist on MLP.py
 - MLP-3.py
-
-- accuracy.jpg
-- loss.jpg
+- MLP_acc.png
+- MLP_loss.png
 
 
 ## 2020/3/10 update
@@ -15,7 +14,6 @@ I uploaded 3 py-files and 2 png-files.
 - opt_loop.py  
 - bs_loop.py   
 - opt+bs_loop.py  
-
 - Train-Test Accuracy (3-opt,3-bs, 1-lr).png  
 - Train-Test Loss (3-opt,3-bs, 1-lr).png  
 
