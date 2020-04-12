@@ -31,6 +31,6 @@ I uploaded 1 py-file and 1 png-file. (solved the problem of legend by creating t
 I uploaded 1 py-file and 3 png files.
 
 - MEGAN.py
-- MEGAN.png
+- Megan.png
 - accuracy.png
 - loss.png
