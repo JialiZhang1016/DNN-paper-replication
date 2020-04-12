@@ -26,3 +26,11 @@ I uploaded 1 py-file and 1 png-file. (solved the problem of legend by creating t
 - Training Loss_lr=[0.01,0.001,0.005] bs=[64.128,256].png
 
 
+## 2020/4/12 update
+
+I uploaded 1 py-file and 3 png files.
+
+- MEGAN.py
+- MEGAN.png
+- accuracy.png
+- loss.png
