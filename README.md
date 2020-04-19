@@ -34,3 +34,11 @@ I uploaded 1 py-file and 3 png files.
 - Megan.png
 - accuracy.png
 - loss.png
+
+
+## 2020/4/20 update
+
+I uploaded 2 .py files.
+
+- Adaptive Methods.py
+- Adaptive Methods_df.py
