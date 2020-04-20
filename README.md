@@ -36,9 +36,17 @@ I uploaded 1 py-file and 3 png files.
 - loss.png
 
 
-## 2020/4/20 update
+## 2020/4/19 update
 
 I uploaded 2 .py files.
 
 - Adaptive Methods.py
 - Adaptive Methods_df.py
+
+
+## 2020/4/21 update
+
+I uploaded 1 .py file and 4 .png files.
+These files are examples for chapter 9 of Nonlinear Optimization in Machine Learning courses.
+I added some notes and modified some variable names in this file.
+- Adaptive Methods_optimizer_frame.py
