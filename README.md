@@ -51,6 +51,8 @@ These files are examples for chapter 9 of Nonlinear Optimization in Machine Lear
 I added some notes and modified some variable names in this file.
 - Adaptive Methods_optimizer_frame.py
 
+I uploaded 1 folder.
+
 
 ## 2020/4/27 update
 
