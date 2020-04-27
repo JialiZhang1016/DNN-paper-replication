@@ -50,3 +50,11 @@ I uploaded 1 .py file and 4 .png files.
 These files are examples for chapter 9 of Nonlinear Optimization in Machine Learning courses.
 I added some notes and modified some variable names in this file.
 - Adaptive Methods_optimizer_frame.py
+
+
+## 2020/4/27 update
+
+I uploaded 2 .py files.  
+- MEGAN_bs_loop.py
+- MEGAN_lr_loop.py
+ 
