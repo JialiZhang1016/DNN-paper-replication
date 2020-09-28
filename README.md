@@ -1,6 +1,9 @@
 # DNN
 
 **The programming environment is tensorflow2.0 + python3.7**
+**This project is a reproduction of an academic paper, the abstract of the paper is as follows：**
+This work revisits the problem of finding empirical measurement towards overfitting and generalization performance while avoiding the use of testing samples. We average the squared norms of loss gradient per training sample and formulate mean empirical gradient norms (MEGAN). Through our empirical studies, MEGAN has been evidenced to correlate with the generalization gap of deep learning models in a quasi-linear manner. Over the optimization path of deep learning, MEGAN could project the “worst-case” generalization gap when the model overfits the training set. Our theoretical analysis connects MEGAN to the stability of learning dynamics under perturbation and the strength of implicit regularization of stochastic empirical risk minimization (Stochastic ERM). We also conduct several experiments to demonstrate the potential of MEGAN for early stopping and model selection.
+
 - [mnist on MLP.py](https://github.com/JialiZhang1016/DNN/blob/master/DNN/minist%20on%20MLP.py)
 - MLP-3.py
 - ![MLP_acc.png](https://github.com/JialiZhang1016/DNN/blob/master/DNN/MLP_acc.png "MLP_acc.png")
