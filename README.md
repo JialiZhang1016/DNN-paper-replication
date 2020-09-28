@@ -31,7 +31,7 @@ I uploaded 1 py-file and 1 png-file. (solved the problem of legend by creating t
 I uploaded 1 py-file and 3 png files.
 
 - [MEGAN.py](https://github.com/JialiZhang1016/DNN/blob/master/DNN/MEGAN.py)
-- ![Megan.png](https://github.com/JialiZhang1016/DNN/blob/master/DNN/MEGAN.png "Megan.png")
+- ![Megan.png](https://github.com/JialiZhang1016/DNN/blob/master/DNN/Megan.png "Megan.png")
 - ![accuracy.png](https://github.com/JialiZhang1016/DNN/blob/master/DNN/accuracy.png "accuracy.png")
 - ![loss.png](https://github.com/JialiZhang1016/DNN/blob/master/DNN/loss.png "loss.png")
 
