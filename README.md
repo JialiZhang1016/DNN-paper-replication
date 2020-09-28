@@ -1,7 +1,7 @@
 # DNN
 
 **The programming environment is tensorflow2.0 + python3.7**
-- mnist on MLP.py
+- [mnist on MLP.py](./DNN/mnist on MLP.py)
 - MLP-3.py
 - MLP_acc.png
 - MLP_loss.png
